@@ -1,3 +1,6 @@
+AUTHORS: R. da S. Torres, A.X. Falcão; L. da F. Costa
+
+
 The purpose of this package is to provide the source code of some
 image descriptors for the image analysis course (MO445). Each
 descriptor is represented by a feature vector and a similarity
@@ -41,8 +44,6 @@ free to modify the feature vector size.
 The figures and the results obtained can be found in ./figs and
 ./results directories, respectively.
 
-If you have questions, please contact Joao Paulo Papa
-(jpaulo@ic.unicamp.br) or Alexandre Falcao (afalcao@ic.unicamp.br)
+If you have questions, please contact Ricardo da Silva Torres (ricardo.dasilvatorres@wur.nl)
 
-Enjoy!
 
